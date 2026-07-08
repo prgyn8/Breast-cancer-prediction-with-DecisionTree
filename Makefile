@@ -5,6 +5,8 @@
 PROJECT_NAME = breast-cancer-prediction
 PYTHON_VERSION = 3.10
 PYTHON_INTERPRETER = python
+PYTHONIOENCODING = utf-8
+export PYTHONIOENCODING
 
 #################################################################################
 # COMMANDS                                                                      #
